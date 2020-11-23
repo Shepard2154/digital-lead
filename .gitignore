@@ -1,0 +1,10 @@
+*.pyc
+*/__pycache__
+*.egg-info
+venv
+.env
+migrations/
+*.ipynb
+*.xlsx
+*.ipynb_checkpoints
+vue-frontend/node_modules/.cache/
